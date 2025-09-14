@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: white;
+    
+}
+.button{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid black;
+    cursor:pointer;
+}
+#hotpink {
+    background-color: hotpink;
+}
+#white {
+
+    background-color: white;
+}
+    
+
+#lightblue {
+    
+     
+    background-color: lightblue;
+
+}
+#lightgreen {
+    
+    background-color: lightgreen;
+}
